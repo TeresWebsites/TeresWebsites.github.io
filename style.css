@@ -65,7 +65,7 @@ header a:hover, footer a:hover {
   height: 100vh;
   width: 100%;
   position: relative;
-  background: url("https://github.com/TeresWebsites/TeresWebsites.github.io/blob/9814ca135c43232e2c1964ba8048231949144f4d/image.png");
+  background: url("image.png");
   background-position: center 65%;
   background-size: cover;
   background-attachment: fixed;
